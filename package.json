@@ -1,0 +1,27 @@
+{
+  "name": "testesautomatizadoscomcypressavancado",
+  "description": "curso de cy avancado tat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^9.5.0",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoLima2018/DiegoLima2018-DiegoLima2018-cypressavancadotat.git"
+  },
+  "author": "Diego Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoLima2018/DiegoLima2018-DiegoLima2018-cypressavancadotat/issues"
+  },
+  "homepage": "https://github.com/DiegoLima2018/DiegoLima2018-DiegoLima2018-cypressavancadotat#readme",
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
